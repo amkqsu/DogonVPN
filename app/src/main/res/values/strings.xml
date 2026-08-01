@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DogonVPN</string>
+    <string name="not_connected">Bağlı Değil</string>
+    <string name="connecting">Bağlanıyor…</string>
+    <string name="connected">Bağlandı</string>
+    <string name="tap_to_connect">Dokunup bağlan</string>
+    <string name="scan_qr">QR Tara</string>
+    <string name="pick_gallery">Galeriden Seç</string>
+    <string name="enter_code">Kod Gir</string>
+    <string name="nav_home">Ana Sayfa</string>
+    <string name="nav_stats">İstatistik</string>
+    <string name="nav_settings">Ayarlar</string>
+</resources>
